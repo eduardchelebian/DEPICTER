@@ -1,1 +1,1 @@
-# DEPICTER
+# DEPICTER: Deep rEPresentation ClusTERing 
